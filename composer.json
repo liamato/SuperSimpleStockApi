@@ -1,0 +1,8 @@
+{
+	"require": {
+		"illuminate/routing": "5.3.*",
+		"illuminate/events": "5.3.*",
+		"illuminate/support": "5.3.*",
+		"illuminate/database": "5.3.*"
+	}
+}
